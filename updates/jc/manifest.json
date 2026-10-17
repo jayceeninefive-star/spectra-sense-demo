@@ -1,8 +1,8 @@
 {
- "versionCode": 20,
- "versionName": "0.9.0",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.0.apk",
- "sha256": "6d21f853d885dec3b21f529ba2767f66ba6464839cb7c08d02098f7cc41fb4db",
- "size": 2256590,
- "notes": "Updates now arrive in the app. New app icon. About shows Created by xKronosYT; open-source licences moved to Settings \u203a About."
+ "versionCode": 21,
+ "versionName": "0.9.1",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.1.apk",
+ "sha256": "ccab4057e76ca14ad7895a7c38099001823b77d52e9d9ccac2ec853c59e08992",
+ "size": 2264782,
+ "notes": "Calibration always finishes within 20 seconds. Hidden diagnostics, Send to Kairo, self-healing."
 }
