@@ -1,8 +1,8 @@
 {
- "versionCode": 22,
- "versionName": "0.9.2",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/public/SpectraSense-0.9.2.apk",
- "sha256": "7380f4282766e0037929d99cbe411c9401381f8a3c32f7cb8451ddb9ff7b2914",
- "size": 2277136,
- "notes": "New Radar (Beta) and a security fix."
+ "versionCode": 23,
+ "versionName": "0.9.3",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/public/SpectraSense-0.9.3.apk",
+ "sha256": "0af13f2ce1b2c17d3a4d3f48c09c5404a1d340e365ad18c9045aff1136b64fb3",
+ "size": 2285328,
+ "notes": "Shared alarm setting for every home."
 }
