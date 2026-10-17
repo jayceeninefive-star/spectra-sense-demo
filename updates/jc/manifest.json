@@ -1,8 +1,8 @@
 {
- "versionCode": 22,
- "versionName": "0.9.2",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.2.apk",
- "sha256": "5b95346eb91e364d2798bcc36cb0354662017a09ff7dc4e36d9b6dde70bb19f6",
- "size": 2268944,
- "notes": "New Radar (Beta): room status, rough room guess, coverage, screen-off sensing. Security fix."
+ "versionCode": 23,
+ "versionName": "0.9.3",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.3.apk",
+ "sha256": "e3883aa9399ab3a5c804f8b068d583a2100fb166a1d41267640554f05de5dea4",
+ "size": 2281232,
+ "notes": "Auto-learning with a pulsing dot in the top bar. Shared alarm setting for every home."
 }
