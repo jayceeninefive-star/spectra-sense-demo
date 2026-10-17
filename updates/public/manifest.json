@@ -1,8 +1,8 @@
 {
- "versionCode": 21,
- "versionName": "0.9.1",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/public/SpectraSense-0.9.1.apk",
- "sha256": "ffd0a5491dfc5768fea540287d4e2d070bf8a3230e0e6d3f49703ee86bc579f1",
- "size": 2268878,
- "notes": "Calibration always finishes within 20 seconds. Self-healing fixes."
+ "versionCode": 22,
+ "versionName": "0.9.2",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/public/SpectraSense-0.9.2.apk",
+ "sha256": "7380f4282766e0037929d99cbe411c9401381f8a3c32f7cb8451ddb9ff7b2914",
+ "size": 2277136,
+ "notes": "New Radar (Beta) and a security fix."
 }
