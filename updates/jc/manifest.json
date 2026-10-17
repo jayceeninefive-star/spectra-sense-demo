@@ -1,8 +1,8 @@
 {
- "versionCode": 21,
- "versionName": "0.9.1",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.1.apk",
- "sha256": "ccab4057e76ca14ad7895a7c38099001823b77d52e9d9ccac2ec853c59e08992",
- "size": 2264782,
- "notes": "Calibration always finishes within 20 seconds. Hidden diagnostics, Send to Kairo, self-healing."
+ "versionCode": 22,
+ "versionName": "0.9.2",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.2.apk",
+ "sha256": "5b95346eb91e364d2798bcc36cb0354662017a09ff7dc4e36d9b6dde70bb19f6",
+ "size": 2268944,
+ "notes": "New Radar (Beta): room status, rough room guess, coverage, screen-off sensing. Security fix."
 }
