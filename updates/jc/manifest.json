@@ -1,8 +1,8 @@
 {
- "versionCode": 27,
- "versionName": "0.10.3",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.10.3.apk",
- "sha256": "a86ed80690d52d9d666384b6f9a37fed584c113018df1e9ebec182e84833e386",
- "size": 5547443,
- "notes": "0.10.3: security fix, privacy cleanup, alerts with Disarm / It's me / View, person finder on Radar (Beta)"
+ "versionCode": 28,
+ "versionName": "0.10.4",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.10.4.apk",
+ "sha256": "9b527fd81bc52b2a30f51cc7c205fa2d11c1d3efd8e3666377810008ee2b0cff",
+ "size": 5612979,
+ "notes": "0.10.4: alerts pause while you carry the phone, then resume cleanly; room detection improvements; fixes"
 }
