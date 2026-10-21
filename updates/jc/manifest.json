@@ -1,8 +1,8 @@
 {
- "versionCode": 23,
- "versionName": "0.9.3",
- "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.9.3.apk",
- "sha256": "e3883aa9399ab3a5c804f8b068d583a2100fb166a1d41267640554f05de5dea4",
- "size": 2281232,
- "notes": "Auto-learning with a pulsing dot in the top bar. Shared alarm setting for every home."
+ "versionCode": 24,
+ "versionName": "0.10.0",
+ "apk_url": "https://jayceeninefive-star.github.io/spectra-sense-demo/updates/jc/SpectraSense-0.10.0.apk",
+ "sha256": "cd8f83e8c43f94ed20959ba2b37631abbb86d8888ade9edfaa22fefd5e5daa3c",
+ "size": 11383163,
+ "notes": "Native Radar: smoother map, fixed compass direction (about 15\u00b0 off before), pinch zooms where your fingers are, Beta turn-with-you map on the location button."
 }
